@@ -1,0 +1,32 @@
+C:\Users\Shokal\Dropbox\c#\C# Project\C# Project\Chat App\Repositories\bin\Debug\Repositories.dll.config
+C:\Users\Shokal\Dropbox\c#\C# Project\C# Project\Chat App\Repositories\bin\Debug\Repositories.dll
+C:\Users\Shokal\Dropbox\c#\C# Project\C# Project\Chat App\Repositories\bin\Debug\Repositories.pdb
+C:\Users\Shokal\Dropbox\c#\C# Project\C# Project\Chat App\Repositories\bin\Debug\Entities.dll
+C:\Users\Shokal\Dropbox\c#\C# Project\C# Project\Chat App\Repositories\bin\Debug\Interfaces.dll
+C:\Users\Shokal\Dropbox\c#\C# Project\C# Project\Chat App\Repositories\bin\Debug\Entities.pdb
+C:\Users\Shokal\Dropbox\c#\C# Project\C# Project\Chat App\Repositories\bin\Debug\Interfaces.pdb
+C:\Users\Shokal\Dropbox\c#\C# Project\C# Project\Chat App\Repositories\obj\Debug\Repositories.csprojResolveAssemblyReference.cache
+C:\Users\Shokal\Dropbox\c#\C# Project\C# Project\Chat App\Repositories\obj\Debug\Repositories.dll
+C:\Users\Shokal\Dropbox\c#\C# Project\C# Project\Chat App\Repositories\obj\Debug\Repositories.pdb
+C:\Users\Md. Zarif Kaisar\Downloads\Compressed\Chat App\Repositories\bin\Debug\Repositories.dll.config
+C:\Users\Md. Zarif Kaisar\Downloads\Compressed\Chat App\Repositories\bin\Debug\Repositories.dll
+C:\Users\Md. Zarif Kaisar\Downloads\Compressed\Chat App\Repositories\bin\Debug\Repositories.pdb
+C:\Users\Md. Zarif Kaisar\Downloads\Compressed\Chat App\Repositories\bin\Debug\Entities.dll
+C:\Users\Md. Zarif Kaisar\Downloads\Compressed\Chat App\Repositories\bin\Debug\Interfaces.dll
+C:\Users\Md. Zarif Kaisar\Downloads\Compressed\Chat App\Repositories\bin\Debug\Entities.pdb
+C:\Users\Md. Zarif Kaisar\Downloads\Compressed\Chat App\Repositories\bin\Debug\Interfaces.pdb
+C:\Users\Md. Zarif Kaisar\Downloads\Compressed\Chat App\Repositories\obj\Debug\Repositories.csprojAssemblyReference.cache
+C:\Users\Md. Zarif Kaisar\Downloads\Compressed\Chat App\Repositories\obj\Debug\Repositories.csproj.CoreCompileInputs.cache
+C:\Users\Md. Zarif Kaisar\Downloads\Compressed\Chat App\Repositories\obj\Debug\Repositories.csproj.CopyComplete
+C:\Users\Md. Zarif Kaisar\Downloads\Compressed\Chat App\Repositories\obj\Debug\Repositories.dll
+C:\Users\Md. Zarif Kaisar\Downloads\Compressed\Chat App\Repositories\obj\Debug\Repositories.pdb
+C:\Users\Shokal\Dropbox\c#\C# Project\Chat App\Repositories\bin\Debug\Repositories.dll.config
+C:\Users\Shokal\Dropbox\c#\C# Project\Chat App\Repositories\bin\Debug\Repositories.dll
+C:\Users\Shokal\Dropbox\c#\C# Project\Chat App\Repositories\bin\Debug\Repositories.pdb
+C:\Users\Shokal\Dropbox\c#\C# Project\Chat App\Repositories\bin\Debug\Entities.dll
+C:\Users\Shokal\Dropbox\c#\C# Project\Chat App\Repositories\bin\Debug\Interfaces.dll
+C:\Users\Shokal\Dropbox\c#\C# Project\Chat App\Repositories\bin\Debug\Entities.pdb
+C:\Users\Shokal\Dropbox\c#\C# Project\Chat App\Repositories\bin\Debug\Interfaces.pdb
+C:\Users\Shokal\Dropbox\c#\C# Project\Chat App\Repositories\obj\Debug\Repositories.csprojResolveAssemblyReference.cache
+C:\Users\Shokal\Dropbox\c#\C# Project\Chat App\Repositories\obj\Debug\Repositories.dll
+C:\Users\Shokal\Dropbox\c#\C# Project\Chat App\Repositories\obj\Debug\Repositories.pdb
